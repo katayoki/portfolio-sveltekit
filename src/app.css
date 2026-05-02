@@ -16,6 +16,19 @@
   --transition: 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
+[data-theme='dark'] {
+  --sky: #0c2233;
+  --sky-mid: #0e2d45;
+  --sky-accent: #1e6a9a;
+  --sky-deep: #38bdf8;
+  --ink: #e8f4fd;
+  --ink-soft: #a8c4d8;
+  --ink-muted: #5a7f99;
+  --white: #0a1628;
+  --surface: #0d1f35;
+  --border: #1a3a5c;
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
