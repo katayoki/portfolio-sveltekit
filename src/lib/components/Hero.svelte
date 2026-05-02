@@ -13,7 +13,7 @@
   <div class="hero-blob"></div>
 
   <div class="hero-content">
-    <span class="hero-tag">Available for work</span>
+    <!-- <span class="hero-tag">Available for work</span> -->
     <h1 class="hero-name">
       {profile.name.first}<br /><em>{profile.name.middle}</em> {profile.name.last}
     </h1>

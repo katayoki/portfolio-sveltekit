@@ -1,7 +1,7 @@
 export const profile = {
   name: {
-    first: 'John Jhed',
-    middle: 'Raniel',
+    first: 'John Jhed Raniel',
+    middle: 'Kiyo',
     last: 'Calumpang'
   },
   title: 'Web Developer',
