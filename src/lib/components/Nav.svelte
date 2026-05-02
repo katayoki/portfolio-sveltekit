@@ -19,7 +19,7 @@
 </script>
 
 <nav class:scrolled>
-  <a href="#hero" class="nav-logo">JJ<span>.</span>Calumpang</a>
+  <a href="#hero" class="nav-logo">Katayoki</a>
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
     <li><a href="#skills">Skills</a></li>
